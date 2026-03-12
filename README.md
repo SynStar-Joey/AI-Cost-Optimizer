@@ -89,4 +89,4 @@ More tools and experiments may be added in the future.
 
 ---
 
-If you find this repository useful, consider starring it.
+⭐ If you find this repository useful, consider starring it.
